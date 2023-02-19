@@ -65,7 +65,7 @@ const Form = () => {
             <Btn title={"Submit"}/>
         </div>
          <div className={show ? "invisible" : "visible"} id="mess">
-              <h1>Formular trimis cu succes</h1>
+              <h1 className='text-secondary font-semibold text-2xl -mt-72 mb-36 text-center'>Formular trimis cu succes</h1>
         </div>
         </form>
     </>
