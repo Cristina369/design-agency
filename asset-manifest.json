@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/design-agency/static/css/main.64b5ff20.css",
+    "main.js": "/design-agency/static/js/main.e4b0b241.js",
+    "static/media/image_5.jpg": "/design-agency/static/media/image_5.3dd0ffb560f1f523a2cc.jpg",
+    "static/media/bg_1.jpg": "/design-agency/static/media/bg_1.dd78f9efecb1c4db3002.jpg",
+    "static/media/image_6.jpg": "/design-agency/static/media/image_6.6b481ed717e98dc4521e.jpg",
+    "static/media/image_4.jpg": "/design-agency/static/media/image_4.4cff1030c28af6a9e1d5.jpg",
+    "static/media/image_1.jpg": "/design-agency/static/media/image_1.32a45bea3b3ecfc397d6.jpg",
+    "static/media/image_2.jpg": "/design-agency/static/media/image_2.42b4529b3fd7b855dd7a.jpg",
+    "static/media/image_3.jpg": "/design-agency/static/media/image_3.edb1bd2aa083169a64a8.jpg",
+    "index.html": "/design-agency/index.html",
+    "main.64b5ff20.css.map": "/design-agency/static/css/main.64b5ff20.css.map",
+    "main.e4b0b241.js.map": "/design-agency/static/js/main.e4b0b241.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64b5ff20.css",
+    "static/js/main.e4b0b241.js"
+  ]
+}
