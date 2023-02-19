@@ -13,7 +13,7 @@
 
 ## Description
 
-![Home page](https://github.com/Cristina369/react-photo-studio/blob/5d04183c27e02c80ab71d67c498841c63bd37f6f/src/images/Art-Maison.png?raw=true "Design Agency home page")
+![Home page](https://github.com/Cristina369/design-agency/blob/8a322667e7b401351b3c456d0a8dc975eab2dc21/src/images/Design%20Agency.png?raw=true "Design Agency home page")
 
 #### Features
  
