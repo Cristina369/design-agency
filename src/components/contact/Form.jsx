@@ -1,6 +1,7 @@
 import React, { useRef, useState } from 'react';
 import emailjs from '@emailjs/browser';
 import Btn from '../common/subcomp/Btn'
+import {AiOutlineCheckCircle} from 'react-icons/ai'
 
 const Form = () => {
     const [name, setName] = useState("");
@@ -65,7 +66,10 @@ const Form = () => {
             <Btn title={"Submit"}/>
         </div>
          <div className={show ? "invisible" : "visible"} id="mess">
-              <h1 className='text-secondary font-semibold text-2xl -mt-72 mb-36 text-center'>Formular trimis cu succes</h1>
+            <div className='flex flex-row justify-center items-center -mt-72 mb-36 text-center'>
+                <i className='checkSvg'><AiOutlineCheckCircle size={30}/></i>
+                <h1 className='text-secondary font-medium text-2xl '>Formular trimis cu succes</h1>
+            </div>
         </div>
         </form>
     </>
